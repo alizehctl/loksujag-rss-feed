@@ -12,7 +12,7 @@
       <link>https://loksujag.com</link>
     </image>
     <language>ur</language>
-    <lastBuildDate>Wed, 06 May 2026 00:35:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 00:37:47 +0000</lastBuildDate>
     <item>
       <title>خصوصی ایڈیشن</title>
       <link>https://loksujag.com/special-edition/exploitative-labor</link>
@@ -200,6 +200,13 @@
       <guid isPermaLink="false">2b21b099601837ee7f85ae20457c99ef</guid>
       <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/540-ev-vehicle.png" length="0" type="image/jpeg"/>
       <pubDate>Sun, 03 May 2026 00:38:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>گلگت بلتستان کا سولر الیکشن: سولر پینلز کی مفت تقسیم بجلی بحران حل کرے گی یا کچھ اور؟</title>
+      <link>https://loksujag.com/story/can-free-solar-panels-solve-gilgit-baltistan-electricity-crisis</link>
+      <guid isPermaLink="false">4b3c2fcfbab355dc8ad900c1f7a66b2a</guid>
+      <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/872-solar-panel-energy.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 07 May 2026 00:37:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
