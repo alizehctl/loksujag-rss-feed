@@ -12,7 +12,7 @@
       <link>https://loksujag.com</link>
     </image>
     <language>ur</language>
-    <lastBuildDate>Fri, 15 May 2026 00:40:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 00:38:14 +0000</lastBuildDate>
     <item>
       <title>خصوصی ایڈیشن</title>
       <link>https://loksujag.com/special-edition/exploitative-labor</link>
@@ -214,6 +214,13 @@
       <guid isPermaLink="false">f1c2fdebf2ed52792336a912ade88ae4</guid>
       <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/289-ev-bike.png" length="0" type="image/jpeg"/>
       <pubDate>Sat, 09 May 2026 00:38:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>مہنگے پٹرول نے ای بائیکس کو پَر تو لگا دئیے لیکن اس کی اڑان کتنی لمبی ہو گی؟</title>
+      <link>https://loksujag.com/story/rising-petrol-prices-boost-ebike-sales-pakistan</link>
+      <guid isPermaLink="false">1053cf282411cfd4a75d6a870ba7852f</guid>
+      <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/353-ev-bikes-title.png" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 16 May 2026 00:38:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
